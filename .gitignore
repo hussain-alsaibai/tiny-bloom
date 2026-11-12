@@ -5,3 +5,4 @@ __pycache__/
 *.bloom
 .pytest_cache/
 .venv/
+seen.bin
